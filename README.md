@@ -17,5 +17,5 @@ A ideia é fazer um cadastro simples de carros, informando o nome, a marca e o a
 **Como executar**
 É necessário ter o Python instalado no computador.
 
-Depois, basta abrir o terminal na pasta do projeto e digitar:
+Depois, é só abrir o terminal na pasta do projeto e digitar:
 python carros.py
